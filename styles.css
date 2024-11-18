@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+}
+.parrafo{
+    font-size: 18px;
+    color: green;
+}
+#caja1{
+    border:  2px solid black;
+    padding: 10px;
+    background-color: lightgray;
+}
